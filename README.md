@@ -1,2 +1,2 @@
-# php-laravel
-My PHP &amp; Laravel Projects 
+# php
+My PHP Projects 
